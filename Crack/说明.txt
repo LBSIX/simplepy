@@ -1,0 +1,2 @@
+1、把winico文件夹复制到python安装目录\tcl下
+2、安装WinRAR，找到安装目录，然后把WinRAR.exe文件复制到当前文件夹

@@ -1,0 +1,6 @@
+﻿首次运行会在当前目录生成配置文件You-Getconfig.ini，填写好对应信息后再运行
+功能2、多个网址：新建文本文档——每个网址占一行——复制粘贴文本文件路径
+功能3、Bilibili Up Download：输入Up主个人空间地址，类似于：
+https://space.bilibili.com/8047632
+https://space.bilibili.com/8047632?from=search&seid=3287339846988974210
+https://space.bilibili.com/8047632?spm_id_from=333.788.b_765f7570696e666f.2

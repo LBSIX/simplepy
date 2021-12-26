@@ -1,0 +1,2 @@
+1、在https://www.videolan.org/vlc/download-windows.html下载7zip package或者Zip package
+2、把vlc压缩包解压到vlc文件夹后，删除vlc压缩包再运行CPlayer.py

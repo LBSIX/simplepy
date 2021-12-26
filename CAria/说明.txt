@@ -1,0 +1,7 @@
+1、把winico文件夹复制到python安装目录\tcl下
+2、新建两个文件夹AriaNg（文件夹名不能变）和启动AriaNg（随便起个名）
+3、在https://github.com/aria2/aria2/releases下载aria2并解压，里面有很多文件，这里只用到aria2c.exe
+4、把aria2c.exe、aria2.conf(conf配置文件名必须是aria2，否则无法更新conf)、aria2.session等aria2配置相关的文件复制到启动AriaNg文件夹
+5、在https://github.com/mayswind/AriaNg/releases下载AriaNg（不支持AriaNg Native）并解压（解压后要有index.html这个文件），把里面的文件全部复制到AriaNg文件夹（文件夹名不能变）
+6、打开启动AriaNg\aria2.conf，找到“dir=”这一行并设置下载路径
+7、把CAria.ico和CAria.py复制到启动AriaNg文件夹，然后运行代码

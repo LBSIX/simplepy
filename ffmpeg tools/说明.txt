@@ -1,0 +1,2 @@
+1、在https://www.gyan.dev/ffmpeg/builds下载ffmpeg压缩包
+2、把ffmpeg压缩包解压到ffmpeg文件夹后，删除ffmpeg压缩包再运行ffmpeg tools.py
